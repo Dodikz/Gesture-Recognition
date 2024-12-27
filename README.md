@@ -1,9 +1,6 @@
 # Gesture Tangan Menggunakan MediaPipe
 
 Program ini digunakan untuk mengenali gesture tangan dan menampilkan huruf berdasarkan posisi tangan di depan kamera. Dibangun menggunakan MediaPipe dan OpenCV, program ini dapat mendeteksi gesture secara real-time.
-# Gesture Tangan Menggunakan MediaPipe
-
-Program ini digunakan untuk mengenali gesture tangan dan menampilkan huruf berdasarkan posisi tangan di depan kamera. Dibangun menggunakan MediaPipe dan OpenCV, program ini dapat mendeteksi gesture secara real-time.
 
 ## Fitur
 
